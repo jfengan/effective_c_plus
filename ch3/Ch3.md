@@ -6,5 +6,6 @@
 
 3. For pointers,
 
-> If the const is ahead of \*, the pointer points to a constant value, and the pointer cannot amend the value of the varaible; \\
+> If the const is ahead of \*, the pointer points to a constant value, and the pointer cannot amend the value of the varaible; 
+
 > If the const is behind the \*, the pointer itself is const, which means the address cannot be amended.
